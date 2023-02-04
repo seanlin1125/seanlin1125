@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **seanlin1125/seanlin1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Hi there👋 
+***I'm Sean, a Backend Engineer***:man_technologist::microphone:
+<br>
+
+## ABOUT ME
+- A Backend Engineer enthusiastic in new technology and skills. :iphone::computer:
+- A Team Coordinator willing to communicate and collaborate with people.
+- A Problem Solver that would love to seek for better solutions within project timeline.
+- Graduated from **Web Development Bootcamp** at [ALPHACamp](https://tw.alphacamp.co/) 
+- Currently learning and expanding skillsets at [Udemy](https://www.udemy.com/).
+
+<br>
+<br>
+
+## PORTFOLIO 
