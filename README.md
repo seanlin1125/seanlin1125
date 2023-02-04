@@ -15,17 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Hi there👋 
-***I'm Sean, a Backend Engineer***:man_technologist::microphone:
+#### Hi there:love_you_gesture:
+***I'm Sean, a Backend Engineer***:man_technologist:
 <br>
 
 ## ABOUT ME
 - A Backend Engineer enthusiastic in new technology and skills. :iphone::computer:
 - A Team Coordinator willing to communicate and collaborate with people.:handshake:🥰
 - A Problem Solver that would love to seek for better solutions within project timeline.:alarm_clock:
-- Graduated from at [ALPHACamp](https://tw.alphacamp.co/) 
-- Currently learning **Web Development** and expanding skillsets at [Udemy](https://www.udemy.com/).
-
+- Keep learning Web Development and expanding skillsets at [Udemy](https://www.udemy.com/).
 <br>
 
 ## PORTFOLIO 
@@ -33,18 +31,19 @@ Here are some ideas to get you started:
 | --------------------- |:-----------:| :-------------------------------------------------- |
 | 🌟 Career Forum 🌟 |[Demo](https://careerforum-group.vercel.app/)| `BE` `JavaScript` `Express.js` `Node.js` `MySQL` `Prisma` `Jest` `AWS`       |
 | 🌟 Simple Twitter 🌟 |[Demo](https://gino-hsu.github.io/simple-twitter/)| `BE` `JavaScript` `Express.js` `Node.js` `MySQL` `Sequelize` `Heroku` |
-
 <br>
 
 ## SKILLS
+###### FRONT-END
 | Frontend | [![My Frontend Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev) |
-|----------|---------|
+<br>
 
-| Backend  | [![My Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,sequelize,prisma,aws,heroku,jenkins,jest,&theme=light)](https://skillicons.dev) |
-|----------|---------|
+###### BACK-END
+[![My Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,sequelize,prisma,aws,heroku,jenkins,jest,&theme=light)](https://skillicons.dev)
+<br>
 
-| Others   | [![My Other Skills](https://skillicons.dev/icons?i=git,docker,nginx,postman&theme=light)](https://skillicons.dev) |
-|----------|---------|
+###### OTHERS
+[![My Other Skills](https://skillicons.dev/icons?i=git,docker,nginx,postman&theme=light)](https://skillicons.dev)
 <br>
 
 ## CONTACT
