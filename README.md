@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ## SKILLS
 ###### FRONT-END
-| Frontend | [![My Frontend Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev) |
+[![My Frontend Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
 <br>
 
 ###### BACK-END
