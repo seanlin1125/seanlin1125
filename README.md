@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - A Team Coordinator willing to communicate and collaborate with people.:handshake:🥰
 - A Problem Solver that would love to seek for better solutions within project timeline.:alarm_clock:
 - Keep learning Web Development and expanding skillsets at [Udemy](https://www.udemy.com/).
-<br>
+
 
 ## PORTFOLIO 
 | **Project**           | **Demo**    | **Skills**                                          |
@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 
 ###### OTHERS
 [![My Other Skills](https://skillicons.dev/icons?i=git,docker,nginx,postman&theme=light)](https://skillicons.dev)
+<br>
 <br>
 
 ## CONTACT
