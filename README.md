@@ -21,12 +21,20 @@ Here are some ideas to get you started:
 
 ## ABOUT ME
 - A Backend Engineer enthusiastic in new technology and skills. :iphone::computer:
-- A Team Coordinator willing to communicate and collaborate with people.
-- A Problem Solver that would love to seek for better solutions within project timeline.
-- Graduated from **Web Development Bootcamp** at [ALPHACamp](https://tw.alphacamp.co/) 
-- Currently learning and expanding skillsets at [Udemy](https://www.udemy.com/).
+- A Team Coordinator willing to communicate and collaborate with people.:handshake:🥰
+- A Problem Solver that would love to seek for better solutions within project timeline.:alarm_clock:
+- Graduated from at [ALPHACamp](https://tw.alphacamp.co/) 
+- Currently learning **Web Development** and expanding skillsets at [Udemy](https://www.udemy.com/).
 
 <br>
 <br>
 
 ## PORTFOLIO 
+| **Project**           | **Demo**    | **Skills**                                          |
+| --------------------- |:-----------:| :-------------------------------------------------- |
+| 🌟 Career Forum 🌟 |[Demo](https://careerforum-group.vercel.app/)| `BE` `JavaScript` `Express.js` `Node.js` `MySQL` `Prisma` `Jest` `AWS`       |
+| 🌟 Simple Twitter 🌟 |[Demo](https://gino-hsu.github.io/simple-twitter/)| `BE` `JavaScript` `Express.js` `Node.js` `MySQL` `Sequelize` `Heroku` |
+
+<br>
+
+## SKILLS
