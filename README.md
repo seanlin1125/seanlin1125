@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Sean Lin — a client-facing SaaS implementation and solution-oriented professional with a background across project management, backend development, and business communication.
+I'm Sean Lin — a client-facing SaaS implementation and solution-oriented professional with experience across project management, backend development, and business communication.
 
 I enjoy bridging the gap between technical teams and business stakeholders, helping customers successfully adopt systems and turn complex workflows into practical solutions.
 
@@ -26,34 +26,38 @@ I enjoy bridging the gap between technical teams and business stakeholders, help
 
 ### 📈 Analytics & Business Communication
 - Experience communicating data insights and technical concepts to non-technical stakeholders
-- Experience supporting analytics and reporting projects, including client communication and solution coordination around Tableau dashboards and business metrics.
+- Experience supporting analytics and reporting projects, including client communication and solution coordination around Tableau dashboards and business metrics
 
 ### 💻 Technical Background
-- Backend development experience with Node.js ecosystem
-- Familiar with RESTful APIs, databases, and cloud deployment workflows
-- Able to collaborate effectively with technical teams in software projects
+- Backend development experience across Node.js and PHP ecosystems
+- Understanding of RESTful APIs, databases, and cloud-based deployment workflows
+- Experience collaborating with technical teams in software implementation and delivery projects
 
 ---
 
-## TECH STACK
+## TECHNICAL EXPERIENCE
 
-### Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql,mongodb,redis,prisma,sequelize)
+### Backend & Database
+Node.js, Express.js, NestJS, PHP, Laravel, MySQL, PostgreSQL
 
-### Cloud / DevOps
-![Cloud](https://skillicons.dev/icons?i=aws,docker,jenkins,nginx)
+### Cloud & DevOps
+AWS, Docker, Jenkins, Nginx
 
-### Frontend & Tools
-![Frontend](https://skillicons.dev/icons?i=js,ts,html,css,git,postman)
+### Collaboration & Workflow Tools
+Git, Postman, ClickUp
 
 ---
 
-## PROJECTS
+## PROJECT & IMPLEMENTATION EXPERIENCE
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| Career Forum | Community forum platform with authentication, backend APIs, and database integration | Node.js, Express.js, MySQL, Prisma |
-| Simple Twitter | Twitter-like social platform with authentication and social interaction features | Node.js, Express.js, MySQL, Sequelize |
+### Community Platform Project
+Built backend APIs and database integration for a forum-style web application using Node.js and MySQL.
+
+### Social Platform Demo Project
+Collaborated on a Twitter-like platform with authentication and social interaction features.
+
+### Client-facing SaaS Implementation Projects
+Coordinated system implementation workflows, stakeholder communication, and issue resolution across multiple customer projects in SaaS environments.
 
 ---
 
