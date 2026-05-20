@@ -1,60 +1,77 @@
-<!--
-### Hi there 👋
+# Hi there 👋
 
-**seanlin1125/seanlin1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sean Lin — a client-facing SaaS implementation and solution-oriented professional with a background across project management, backend development, and business communication.
 
-Here are some ideas to get you started:
+I enjoy bridging the gap between technical teams and business stakeholders, helping customers successfully adopt systems and turn complex workflows into practical solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-#### Hi there:love_you_gesture:
-***I'm Sean, a Backend Engineer***:man_technologist:
-<br>
+---
 
 ## ABOUT ME
-- A Backend Engineer enthusiastic in new technology and skills. :iphone::computer:
-- A Team Coordinator willing to communicate and collaborate with people.:handshake:🥰
-- A Problem Solver that would love to seek for better solutions within project timeline.:alarm_clock:
-- Keep learning Web Development and expanding skillsets at [Udemy](https://www.udemy.com/).:open_book:
-<br>
 
-## PORTFOLIO 
-| **Project**           | **Demo**    | **Skills**                                          |
-| --------------------- |:-----------:| :-------------------------------------------------- |
-| 🌟 Career Forum 🌟 |[Demo](https://careerforum-group.vercel.app/)| `BE` `JavaScript` `Express.js` `Node.js` `MySQL` `Prisma` `Jest` `AWS`       |
-| 🌟 Simple Twitter 🌟 |[Demo](https://gino-hsu.github.io/simple-twitter/)| `BE` `JavaScript` `Express.js` `Node.js` `MySQL` `Sequelize` `Heroku` |
-<br>
+- 💼 Experienced in SaaS implementation, customer communication, and cross-functional project coordination
+- 🤝 Strong interest in customer success, solution consulting, and technology adoption
+- 🧠 Able to communicate effectively between engineering teams and business stakeholders
+- 📊 Background in analytics, backend development, and system implementation projects
+- 🌱 Currently exploring AI tools, SaaS workflows, and customer-facing solution roles
+- 🇹🇼 Based in Taipei, Taiwan
 
-## SKILLS
-###### FRONT-END
-[![My Frontend Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap)](https://skillicons.dev)
-<br>
+---
 
-###### BACK-END
-[![My Backend Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,redis,mysql,mongodb,sequelize,prisma,aws,heroku,jenkins,jest,&theme=light)](https://skillicons.dev)
-<br>
+## EXPERIENCE HIGHLIGHTS
 
-###### OTHERS
-[![My Other Skills](https://skillicons.dev/icons?i=git,docker,nginx,postman&theme=light)](https://skillicons.dev)
-<br>
-<br>
+### 🚀 SaaS / System Implementation
+- Led and coordinated client-facing system implementation projects
+- Worked closely with engineers, designers, and stakeholders to ensure successful delivery and go-live
+- Supported workflow discussions, issue resolution, and customer communication throughout project lifecycle
+
+### 📈 Analytics & Business Communication
+- Experience communicating data insights and technical concepts to non-technical stakeholders
+- Familiar with Tableau, data reporting, and solution-oriented discussions
+
+### 💻 Technical Background
+- Backend development experience with Node.js ecosystem
+- Familiar with RESTful APIs, databases, and cloud deployment workflows
+- Able to collaborate effectively with technical teams in software projects
+
+---
+
+## TECH STACK
+
+### Backend
+![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql,mongodb,redis,prisma,sequelize)
+
+### Cloud / DevOps
+![Cloud](https://skillicons.dev/icons?i=aws,docker,jenkins,nginx)
+
+### Frontend & Tools
+![Frontend](https://skillicons.dev/icons?i=js,ts,html,css,git,postman)
+
+---
+
+## PROJECTS
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| Career Forum | Community forum platform with authentication, backend APIs, and database integration | Node.js, Express.js, MySQL, Prisma |
+| Simple Twitter | Twitter-like social platform with authentication and social interaction features | Node.js, Express.js, MySQL, Sequelize |
+
+---
+
+## CURRENT INTERESTS
+
+- Customer Success
+- Solution Consulting
+- SaaS Implementation
+- AI-enabled workflows
+- Business × Technology communication
+- Product adoption & enablement
+
+---
 
 ## CONTACT
-<p align="left">
-<a href="https://www.linkedin.com/in/po-hsiu-sean-lin/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
-</a>
-<a href="mailto:sean821125@gmail.com">
-  <img src="https://img.shields.io/badge/sean821125@gmail.com-fafafa?style=for-the-badge&logo=Gmail&logoColor=#EA4335">
-</a>
-<a href="https://medium.com/@Sean_10022">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-</a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/po-hsiu-sean-lin/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sean821125@gmail.com)
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Sean_10022)
