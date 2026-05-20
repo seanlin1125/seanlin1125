@@ -26,7 +26,7 @@ I enjoy bridging the gap between technical teams and business stakeholders, help
 
 ### 📈 Analytics & Business Communication
 - Experience communicating data insights and technical concepts to non-technical stakeholders
-- Familiar with Tableau, data reporting, and solution-oriented discussions
+- Experience supporting analytics and reporting projects, including client communication and solution coordination around Tableau dashboards and business metrics.
 
 ### 💻 Technical Background
 - Backend development experience with Node.js ecosystem
